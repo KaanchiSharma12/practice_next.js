@@ -11,7 +11,7 @@ export default function Home() {
   const overlay = true;
   const heroBannerData = {
     heading: "Hello! We are Clear Digital",
-    title: "kaanchi",
+    title: "kaanchi sharma",
   };
   return (
     <div>
