@@ -8,7 +8,7 @@ export default function AboutUs() {
   const overlay = false;
   const heroBannerData = {
     heading: "Welcome! We are Clear Digital",
-    title: "kaanchi",
+    title: "ajay",
   };
   return (
     <div>
