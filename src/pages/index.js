@@ -11,17 +11,17 @@ export default function Home() {
   const overlay = true;
   const heroBannerData = {
     heading: "Hello! We are Clear Digital",
-    title: "kaanchi sharma",
+    title: "xyz",
   };
   return (
     <div>
-      <HeroBanner overlay={overlay} heroBannerData={heroBannerData} />
+      {/* <HeroBanner overlay={overlay} heroBannerData={heroBannerData} />
       <ColThreeCard />
-      <ImageWithContent />
+      <ImageWithContent /> */}
       <IntroBlock />
-      <CaseStudies />
+      {/* <CaseStudies />
       <Cta />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 }
