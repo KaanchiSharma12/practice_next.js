@@ -15,9 +15,9 @@ export default function Home() {
   };
   return (
     <div>
-      {/* <HeroBanner overlay={overlay} heroBannerData={heroBannerData} />
+      {/* <HeroBanner overlay={overlay} heroBannerData={heroBannerData} /> */}
       <ColThreeCard />
-      <ImageWithContent /> */}
+      {/* <ImageWithContent /> */}
       <IntroBlock />
       {/* <CaseStudies />
       <Cta />
