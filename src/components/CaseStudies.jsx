@@ -66,6 +66,15 @@ export default function CaseStudies() {
       blurb:
         "Developed a scalable, modular website for Habu, enhancing brand visibility and supporting its successful.",
     },
+    {
+      link: "https://www.cleardigital.com/work/case-study/habu",
+      imgSrc: "/images/Default-Case-Study-Card.png",
+      logoBlack: "/images/Case_Study_Habu_Black.svg",
+      logoWhite: "/images/Case_Study_Habu_White-Opt.svg",
+      title: "Habu Website Redesign Leads to $200M Acquisition-1",
+      blurb:
+        "Developed a scalable, modular website for Habu, enhancing brand visibility and supporting its successful.",
+    },
   ];
 
   return (
