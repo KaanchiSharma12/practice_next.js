@@ -10,12 +10,7 @@ export default function HeroBanner({ overlay, heroBannerData }) {
       }`}
     >
       <div className="absolute top-0 right-0 left-0 w-[100%] h-[100%] z-[1]">
-        <video autoPlay loop muted playsInline>
-          <source
-            src="/images/Clear-Digital-Home-Hero_400kbps.mp4"
-            type="video/mp4"
-          />
-        </video>
+        <img src="/images/Clear_ViralNation_background_Image.png"></img>
       </div>
       <div className="container">
         <div className="z-[4] relative">
