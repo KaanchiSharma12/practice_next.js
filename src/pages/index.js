@@ -26,7 +26,7 @@ export default function Home() {
       <CaseStudies />
       <CaseStudies />
       <Cta />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
