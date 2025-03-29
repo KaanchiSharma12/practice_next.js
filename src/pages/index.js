@@ -24,9 +24,9 @@ export default function Home() {
       {/* <ImageWithContent /> */}
       <IntroBlock />
       <CaseStudies />
-      {/* <CaseStudies />
+      <CaseStudies />
       <Cta />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
