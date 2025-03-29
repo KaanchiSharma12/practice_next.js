@@ -13,17 +13,20 @@ export default function Home() {
   const heroBannerData = {
     heading: "Hello! We are Clear Digital",
     title: "kaanchi sharma",
+
+    heading: "what is react js",
+    title: "React is a JavaScript library",
   };
   return (
     <div>
-      {/* <HeroBanner overlay={overlay} heroBannerData={heroBannerData} /> */}
+      <HeroBanner overlay={overlay} heroBannerData={heroBannerData} />
       {/* <ColThreeCard /> */}
       {/* <ImageWithContent /> */}
       <IntroBlock />
-      <Banner />
+      <CaseStudies />
       {/* <CaseStudies />
       <Cta />
-      <Footer /> */}
+      {/* <Footer /> */}
     </div>
   );
 }
