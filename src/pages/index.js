@@ -14,7 +14,7 @@ export default function Home() {
     heading: "Hello! We are Clear Digital",
     title: "kaanchi sharma",
 
-    heading: "what is react js",
+    heading: "lorem ipsum",
     title: "React is a JavaScript library",
   };
   return (
