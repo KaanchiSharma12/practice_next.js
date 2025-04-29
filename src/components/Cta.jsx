@@ -10,7 +10,7 @@ export default function Cta() {
       <div className="container">
         <div className="introWrap relative z-[11] text-center">
           <h6 className="text-white">Ready to get to work?</h6>
-          <h2 className="pt-[15px] text-white">Let’s talk.</h2>
+          <h2 className="pt-[15px] text-white">Let’s respond.</h2>
         </div>
       </div>
     </section>
